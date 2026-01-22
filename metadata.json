@@ -1,0 +1,7 @@
+{
+  "name": "Sometimes all you need is FUNK",
+  "description": "A high-energy soundboard harvesting the funkiest royalty-free instrumentals from across the web.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
